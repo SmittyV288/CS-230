@@ -8,13 +8,12 @@
   - What I think I did particularly well in developing this documentation was the Evaluation section which went over the charactheristics, advantages, and weaknesses of each operating system. I felt that I did well at explaining each section well enough that even someone unfamiliar with the different system could understand the differences. 
 
 - What about the process of working through a design document did you find helpful when developing the code?
-  -
+  - I found that designing the UML Diagram to be the most helpful for developing the code. It gives a good outline of how each class should interact with each other. It also provides the information needed for variables and methods for each class and whether or not they need to be private or public. 
   
-- If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
-
+- If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it? If I had to choose a part of the document to revise, it would be the design constraints section. I feel that it could have been more detailed for the client so to improve it, I would have elaborated a bit more for each of the four constraints I outlined. 
 
 - How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
-  -
+  - I interpreted the user's needs by getting the requirements from the client first. From there I was able to implement them into my software design with the use of a UML diagram. 
 
 - How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
-  -
+  - I used the approach of creating a software design document based around the requirements from the client. What I would use in the future to analyze and design a similar software application is to get all requirements from the client, develop a system architecture view, and create a UML diagram. 
